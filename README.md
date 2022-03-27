@@ -28,3 +28,5 @@ I run the mask_rcnn_train.ipynb (what we do here in essence is run the custom.py
 
 # TESTING
 I run the test_glass_pen_model.ipynb with the same prerequisites
+
+As a final result we can see that the Mask-RCNN has done a beautiful job at my testing images 
