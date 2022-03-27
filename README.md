@@ -33,11 +33,13 @@ As a final result we can see that the Mask-RCNN has done a beautiful job at my t
 
 here are some examples:
 
-some pics from my desk:
+///// some pics from my desk /////
 
 ![download](https://user-images.githubusercontent.com/65830412/160298939-e4a2c0db-bc9d-4e14-b910-3c49a8e7e37d.png)
 
 ![download (1)](https://user-images.githubusercontent.com/65830412/160298949-0f68f1cc-df0f-4d71-b9f9-0cadad889390.png)
 
-and one that i downloaded from google:
+///// and one that i downloaded from google ///// :
+
+![download (2)](https://user-images.githubusercontent.com/65830412/160299034-c1cd1aae-ab7d-49c8-89ea-28f821f3f17c.png)
 
