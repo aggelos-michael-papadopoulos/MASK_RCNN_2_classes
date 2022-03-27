@@ -14,7 +14,9 @@ MASK R-CNN for instance segmantation for two classes:
 Code from: https://github.com/matterport/Mask_RCNN.
 --
 
-Following the steps from youtube video: https://www.youtube.com/watch?v=t1MrzuAUdoE&list=PLAIlFCosqqHYcs6MTyVoXmrGjyL_VpjiZ&index=2&t=894s&ab_channel=CodeWithAarohi.
+Following the steps from AarohiSingla's youtube video:
+
+https://www.youtube.com/watch?v=t1MrzuAUdoE&list=PLAIlFCosqqHYcs6MTyVoXmrGjyL_VpjiZ&index=2&t=894s&ab_channel=CodeWithAarohi.
 --
 But with a few important changes (i uploaded all my files that i executed), because i could not run it otherwise.
 
