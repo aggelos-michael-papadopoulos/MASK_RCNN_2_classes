@@ -48,3 +48,6 @@ here are some examples:
 
 
 But you can implement the code for whatever photo you like!
+
+
+--- I ran the whole project on Google Colab using GPU, so you have to change the paths on both .ipynb files and on custom.py! ---
