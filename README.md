@@ -12,12 +12,14 @@ MASK R-CNN for instance segmantation for two classes:
   2) Pen.
 
 Code from: https://github.com/matterport/Mask_RCNN.
+--
 
 Following the steps from youtube video: https://www.youtube.com/watch?v=t1MrzuAUdoE&list=PLAIlFCosqqHYcs6MTyVoXmrGjyL_VpjiZ&index=2&t=894s&ab_channel=CodeWithAarohi.
-----
+--
+But with a few important changes (i uploaded all my files that i executed), because i could not run it otherwise.
 
 Annotation tool: VGG Image Annotator (VIA).
-
+--
 # prerequisites
 1) Tensorflow 1.15.2
 2) Keras 2.3.1
