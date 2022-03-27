@@ -43,3 +43,5 @@ here are some examples:
 
 ![download (2)](https://user-images.githubusercontent.com/65830412/160299034-c1cd1aae-ab7d-49c8-89ea-28f821f3f17c.png)
 
+
+But you can implement the code for whatever photo you like!
