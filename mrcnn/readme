@@ -1,0 +1,1 @@
+.py files that i downloaded from https://github.com/matterport/Mask_RCNN/tree/master/mrcnn, but with a few changes at model.py in order to run from google colab at the prerequisites we have.
