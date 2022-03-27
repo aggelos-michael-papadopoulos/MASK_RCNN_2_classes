@@ -17,6 +17,8 @@ Following the steps from youtube video: https://www.youtube.com/watch?v=t1MrzuAU
 
 Annotation tool: VGG Image Annotator (VIA).
 
-#TRAINING
+# TRAINING
 
-I run the mask_rcnn_train.ipynb (what we do here in essence is run the custom.py from google colab).
+I run the mask_rcnn_train.ipynb (what we do here in essence is run the custom.py from google colab) and as a result we get the training weights from the last epoch (20th epoch).
+
+
