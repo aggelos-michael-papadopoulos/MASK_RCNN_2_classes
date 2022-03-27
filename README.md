@@ -22,3 +22,7 @@ Annotation tool: VGG Image Annotator (VIA).
 I run the mask_rcnn_train.ipynb (what we do here in essence is run the custom.py from google colab) and as a result we get the training weights from the last epoch (20th epoch).
 
 
+# prerequisites
+1) Tensorflow 1.15.2
+2) Keras 2.3.1
+3) h5py < 3.0.0 so 1.21.5 (!pip install 'h5py<3.0.0')
