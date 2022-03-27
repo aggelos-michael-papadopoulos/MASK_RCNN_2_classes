@@ -27,7 +27,7 @@ Annotation tool: VGG Image Annotator (VIA).
 
 # TRAINING
 
-I run the mask_rcnn_train.ipynb (what we do here in essence is run the custom.py from google colab) and as a result we get the training weights from the last epoch (20th epoch).
+I run the mask_rcnn_train.ipynb (what we do here in essence is run the custom.py from google colab) and as a result we get the training weights from the last epoch (20th epoch) in a logs file that will create after we ran the traning.
 
 # TESTING
 I run the test_glass_pen_model.ipynb with the same prerequisites
