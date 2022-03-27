@@ -14,6 +14,7 @@ MASK R-CNN for instance segmantation for two classes:
 Code from: https://github.com/matterport/Mask_RCNN.
 
 Following the steps from youtube video: https://www.youtube.com/watch?v=t1MrzuAUdoE&list=PLAIlFCosqqHYcs6MTyVoXmrGjyL_VpjiZ&index=2&t=894s&ab_channel=CodeWithAarohi.
+----
 
 Annotation tool: VGG Image Annotator (VIA).
 
