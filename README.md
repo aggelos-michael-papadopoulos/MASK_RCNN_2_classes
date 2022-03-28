@@ -27,7 +27,8 @@ Annotation tool: VGG Image Annotator (VIA).
 1) Tensorflow 1.15.2
 2) Keras 2.3.1
 3) h5py < 3.0.0 so 1.21.5 (!pip install 'h5py<3.0.0')
-4) you can download COCO weights (that you will need in custom.py) from here: https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
+4) scikit-image==0.16.2
+5) you can download COCO weights (that you will need in custom.py) from here: https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
 
 # TRAINING
 
