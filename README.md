@@ -1,5 +1,6 @@
 # MASK_RCNN-2_classes-
 
+Architecture (Faster RCNN + MASK):
 
 ![The-structure-of-the-Mask-R-CNN-architecture](https://user-images.githubusercontent.com/65830412/159546562-639569f0-86d8-4451-8a84-7d509f979463.png)
 
