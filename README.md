@@ -47,9 +47,12 @@ here are some examples:
 
 ![download (1)](https://user-images.githubusercontent.com/65830412/160298949-0f68f1cc-df0f-4d71-b9f9-0cadad889390.png)
 
-///// and one that i downloaded from google ///// :
+///// and two that i downloaded from google ///// :
 
 ![download (2)](https://user-images.githubusercontent.com/65830412/160299034-c1cd1aae-ab7d-49c8-89ea-28f821f3f17c.png)
+
+![download](https://user-images.githubusercontent.com/65830412/160457556-4a6c31bb-6287-4104-a3a2-d43e0b1e3238.png)
+
 
 
 But you can implement the code for whatever photo you like.
