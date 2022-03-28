@@ -50,7 +50,7 @@ here are some examples:
 ![download (2)](https://user-images.githubusercontent.com/65830412/160299034-c1cd1aae-ab7d-49c8-89ea-28f821f3f17c.png)
 
 
-But you can implement the code for whatever photo you like!
+But you can implement the code for whatever photo you like.
 
 
 --- I ran the whole project on Google Colab (on Colab's GPU), so you have to change the paths on both .ipynb files and on custom.py to fit your paths! ---
